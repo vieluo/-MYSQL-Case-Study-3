@@ -1,4 +1,4 @@
-# 8 Weeks SQL Challenge - 3th Week
+# 8 Weeks SQL Challenge - 3rd Week
 
 ### This [case study](https://8weeksqlchallenge.com/case-study-2/)  is provided by Danny Ma 
 
